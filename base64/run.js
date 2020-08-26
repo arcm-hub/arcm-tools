@@ -1,6 +1,9 @@
 
 module.exports.run = (query) => {
-    if(!query.string || query.string.length > 10000)
+    if(!query.string)
+        return;
+        
+    if(query.string.length > 10000)
         return "Invalid String or length is greater than 10000"
 
     if(query.action === 'encode') {
