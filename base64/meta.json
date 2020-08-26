@@ -1,0 +1,7 @@
+{
+    "name": "Base64 Encoder Decoder",
+    "description": "Simple tool encode and decode Base64 strings",
+    "author": "ARCM",
+    "icon": "receipt-outline",
+    "npm-packages": []
+}
