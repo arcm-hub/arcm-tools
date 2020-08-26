@@ -1,7 +1,7 @@
 {
     "name": "Password Generator",
     "description": "A quick online tool generate complex passwords online",
-    "author": "Ashok Raja CM",
+    "author": "ARCM",
     "icon": "key",
     "npm-packages": [
         "password-generator"
